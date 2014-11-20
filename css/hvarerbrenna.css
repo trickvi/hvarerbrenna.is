@@ -1,0 +1,36 @@
+.top-bar {
+    background: #c85e00;
+    height: 50px;
+}
+
+.title-area {
+    background: #fff;
+    height: 50px;
+}
+
+.title-area .name h1 a {
+    color: #222;
+    padding: 0 50px 0 10px;
+    line-height: 50px;
+}
+
+.title-area .name h1 a:before {
+    display: inline-block;
+    content: url("../img/small-icon.png");
+    float: left;
+    z-index: 10000;
+    padding: 5px 5px 0 10px;
+}
+
+.top-bar-section li.active:not(.has-form) a:not(.button) {
+    line-height: 50px;
+}
+
+#map {
+    width: 100%;
+    height: 500px;
+}
+
+body > div.row {
+    margin-top: 50px;
+}

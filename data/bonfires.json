@@ -1,0 +1,54 @@
+{
+    "bonfires": [
+        {
+            "latitude": 64.13726871221157, 
+            "name": "\u00dalfarsfell", 
+            "longitude": -21.75097507218683
+        }, 
+        {
+            "latitude": 64.14163223126147, 
+            "name": "\u00c6giss\u00ed\u00f0a", 
+            "longitude": -21.967621057778928
+        }, 
+        {
+            "latitude": 64.12655163188606, 
+            "name": "Skerjafj\u00f6r\u00f0ur", 
+            "longitude": -21.951682573968764
+        }, 
+        {
+            "latitude": 64.1454720767643, 
+            "name": "Laugar\u00e1svegur", 
+            "longitude": -21.87450026935158
+        }, 
+        {
+            "latitude": 64.14440203833168, 
+            "name": "Gufunes", 
+            "longitude": -21.81085728009656
+        }, 
+        {
+            "latitude": 64.23641526414066, 
+            "name": "Kl\u00e9berg", 
+            "longitude": -21.82905699944004
+        }, 
+        {
+            "latitude": 64.09985311345086, 
+            "name": "Su\u00f0urfell", 
+            "longitude": -21.80953784292811
+        }, 
+        {
+            "latitude": 64.12103617649609, 
+            "name": "Su\u00f0urhl\u00ed\u00f0ar", 
+            "longitude": -21.906852285231114
+        }, 
+        {
+            "latitude": 64.11140932050353, 
+            "name": "Fylkisbrenna", 
+            "longitude": -21.77482621294277
+        }, 
+        {
+            "latitude": 64.12956967946002, 
+            "name": "Geirsnef", 
+            "longitude": -21.83977099495719
+        }
+    ]
+}
