@@ -34,3 +34,9 @@
 body > div.row {
     margin-top: 50px;
 }
+
+@media only screen and (max-width: 64.063em) {
+    h1 small {
+       display: block;
+    }
+}
